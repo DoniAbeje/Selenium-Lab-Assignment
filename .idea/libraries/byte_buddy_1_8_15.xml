@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="byte-buddy-1.8.15">
+    <CLASSES>
+      <root url="jar://G:/Documents/Study/3rd Year/Second Semester/Software Engineering II/Lab/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://G:/Documents/Study/3rd Year/Second Semester/Software Engineering II/Lab/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://G:/Documents/Study/3rd Year/Second Semester/Software Engineering II/Lab/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://G:/Documents/Study/3rd Year/Second Semester/Software Engineering II/Lab/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://G:/Documents/Study/3rd Year/Second Semester/Software Engineering II/Lab/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/converter-gson-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/gson-2.7.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/okhttp-3.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/okio-1.13.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/retrofit-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
